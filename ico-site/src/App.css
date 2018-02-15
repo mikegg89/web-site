@@ -1,25 +1,17 @@
-
 .nav-bar {
   background-color: #222;
-  height: 25px;
-  padding: 20px;
-  color: white;
+  height: 60px;
+  padding: 0px;
+  margin: 0;
 }
 
 .logo {
-  padding-left: 20px;
-  padding-bottom: 10px;
+  margin-top: 5px;
+  margin-left: 20%;
 }
 
-.App-title {
-  font-size: 1.5em;
-}
-
-.App-intro {
-  font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.nav-list-item {
+  color: black;
+  float: right;
+  margin-right: 20%;
 }
